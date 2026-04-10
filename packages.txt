@@ -1,6 +1,2 @@
 libglib2.0-0
-libffi-dev
-libpcre3
-libsm6
-libxrender1
-libxext6
+libffi8
